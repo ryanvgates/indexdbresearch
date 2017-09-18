@@ -1,7 +1,7 @@
 {
   "name": "indexdbresearch",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a research project so that I can know more about index db.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,12 @@
     "url": "git+https://github.com/ryanvgates/indexdbresearch.git"
   },
   "author": "Ryan Gates",
-  "license": "See LICENSE",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/ryanvgates/indexdbresearch/issues"
   },
-  "homepage": "https://github.com/ryanvgates/indexdbresearch#readme"
+  "homepage": "https://github.com/ryanvgates/indexdbresearch#readme",
+  "dependencies": {
+    "idb-keyval": "^2.3.0"
+  }
 }
